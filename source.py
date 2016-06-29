@@ -7,5 +7,4 @@ def main():
 
 	print("Hello, " + userName + ", your are " + str(userAge) + " years old.")
 
-something
 main()
