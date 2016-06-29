@@ -20,7 +20,7 @@
 		"anaconda_linting": true,
 		"anaconda_linting_behaviour": "always",
 		"pep257": false,
-		"python_interpreter": "C:\"Program Files (x86)\"Python35-32\"python",
+		"python_interpreter": "python -u \"$file\"",
 		"test_command": "python -m unittest discover",
 		"use_pylint": false,
 		"validate_imports": true
